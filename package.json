@@ -1,5 +1,5 @@
 {
-  "name": "expres-auth-app boilerplate",
+  "name": "expres-auth-app-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,16 @@
   "author": "Kamil Norowski",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^2",
+    "bcrypt": "3.0.6",
     "config": "^3.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "helmet": "^3.15.0",
     "jsonwebtoken": "^8.4.0",
     "mongoose": "^5.4.9",
     "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "npm": "^6.12.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0"

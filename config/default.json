@@ -1,3 +1,9 @@
 {
-    "name" : "example auth node app"
+    "jwt" : {
+        "secret" : "borsuczi"
+    },
+    "db" : {
+        "url" : "mongodb://admin:zipera1@ds123224.mlab.com:23224/newyearnewme"
+    }
+
 }
